@@ -1,5 +1,5 @@
 def my_collect(x)
- array = []
+ x = []
   i = 0
   while i < x.length
   yield x[i] 
