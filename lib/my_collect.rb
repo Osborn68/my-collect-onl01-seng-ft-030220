@@ -5,5 +5,4 @@ def my_collect(x)
    yield x[i] 
     counter += 1
   end
-  
-end 
+  end 
