@@ -6,6 +6,5 @@ def my_collect(x)
   x << x
   counter += 1
   end
-  x
+
 end 
-end
